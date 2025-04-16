@@ -15,7 +15,7 @@ O aplicativo feito apresenta as seguintes funções:
 
 Segue o link para o vídeo e documento explicando com mais detalhes o projeto
 
-- 💻 [Documento](Docs/TrabalhoFinal.pdf)
+- 💻 [Documento](Docs/Trabalho+final.pdf)
 - 💻 [Vídeo](Docs/apresentacao.mp4)
 
 ## 👤 Equipe
