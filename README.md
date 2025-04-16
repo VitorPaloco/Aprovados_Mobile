@@ -15,8 +15,8 @@ O aplicativo feito apresenta as seguintes funções:
 
 Segue o link para o vídeo e documento explicando com mais detalhes o projeto
 
-- 💻 [Documento](src/SSolid/Exemplo2)
-- 💻 [Vídeo](src/SSolid/Exemplo2)
+- 💻 [Documento](Docs/TrabalhoFinal.pdf)
+- 💻 [Vídeo](Docs/apresentacao.mp4)
 
 ## 👤 Equipe
 
